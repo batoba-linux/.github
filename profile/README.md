@@ -12,3 +12,14 @@ Historically, Linux applications are ugly, dated, and complicated. They don't ha
 Silico Apps currently has the following applications:
 
 - [Calculator](https://github.com/silico-apps/calculator)
+
+### Coming Soon
+
+The Silico Apps team is working on more applications, including:
+
+- Image Viewer & Editor
+- Storage Manager
+- Process Manager
+- Video Viewer & Editor
+
+...and more to come!
