@@ -21,5 +21,7 @@ The Silico Apps team is working on more applications, including:
 - Storage Manager
 - Process Manager
 - Video Viewer & Editor
+- Wifi Manager
+- Device Manager
 
 ...and more to come!
